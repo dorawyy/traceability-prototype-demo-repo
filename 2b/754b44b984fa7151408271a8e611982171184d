@@ -1,0 +1,73 @@
+backend/src/routes.ts
+  h_ebff0bc7bb81ae 12
+  55f11dac0f4907dc 11,13-14
+---
+backend/src/routes.ts
+  51d7eef9-9169-4f13-ad1a-2319271c5aad 11,13-14
+---
+{
+  "schema_version": "authorship/4.0.0",
+  "git_ai_version": "1.3.1",
+  "base_commit_sha": "2b754b44b984fa7151408271a8e611982171184d",
+  "prompts": {
+    "3e1bef8e2535a53e": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "f24c04ca-097b-45b9-a76b-08518cc6a14b",
+        "model": "composer-2"
+      },
+      "human_author": "Yingying Wang",
+      "messages": [],
+      "total_additions": 0,
+      "total_deletions": 0,
+      "accepted_lines": 0,
+      "overriden_lines": 0,
+      "messages_url": "https://git-ai-production.up.railway.app/cas/2fdfb2eefa542165d3defc6b3b4125dd44b963d69c2fd87c12b5b5017b776063"
+    },
+    "55f11dac0f4907dc": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "82521ba7-5cc0-452f-9d9a-432022706d31",
+        "model": "composer-2"
+      },
+      "human_author": "Yingying Wang",
+      "messages": [],
+      "total_additions": 4,
+      "total_deletions": 0,
+      "accepted_lines": 3,
+      "overriden_lines": 1,
+      "messages_url": "https://git-ai-production.up.railway.app/cas/9a8e35c20a5bfe5612a06d09d8694753068c627af813b29ddbc66b6c34a69eb8"
+    }
+  },
+  "humans": {
+    "h_ebff0bc7bb81ae": {
+      "author": "Yingying Wang"
+    }
+  },
+  "change_history": [
+    {
+      "timestamp": 1778175267,
+      "kind": "ai_agent",
+      "files": {},
+      "line_stats": {
+        "additions": 4,
+        "deletions": 0,
+        "additions_sloc": 3,
+        "deletions_sloc": 0
+      },
+      "url": "https://git-ai-production.up.railway.app/cas/f9ea58909c0577199b55269dcdc15c0e332b6a0b20b0e06ba415f495ef753122"
+    },
+    {
+      "timestamp": 1778175286,
+      "kind": "known_human",
+      "files": {},
+      "line_stats": {
+        "additions": 1,
+        "deletions": 1,
+        "additions_sloc": 1,
+        "deletions_sloc": 1
+      },
+      "url": "https://git-ai-production.up.railway.app/cas/e9a275e607a2bcd0904a24781fd1b72a8fcc123acfc61d2ed4b5dba90df2f555"
+    }
+  ]
+}
