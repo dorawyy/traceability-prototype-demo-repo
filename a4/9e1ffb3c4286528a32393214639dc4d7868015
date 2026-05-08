@@ -1,0 +1,85 @@
+backend/src/auth.routes.ts
+  320d12392ec86a98 27-28
+---
+{
+  "schema_version": "authorship/4.0.0",
+  "git_ai_version": "1.3.6",
+  "base_commit_sha": "a49e1ffb3c4286528a32393214639dc4d7868015",
+  "prompts": {
+    "320d12392ec86a98": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "0b26c4b1-3a51-43e3-9f7b-54b53104161a",
+        "model": "default"
+      },
+      "human_author": "Yingying Wang",
+      "messages": [],
+      "total_additions": 2,
+      "total_deletions": 29,
+      "accepted_lines": 2,
+      "overriden_lines": 0
+    }
+  },
+  "change_history": [
+    {
+      "timestamp": 1778272448,
+      "kind": "ai_agent",
+      "files": {},
+      "line_stats": {
+        "additions": 2,
+        "deletions": 1,
+        "additions_sloc": 2,
+        "deletions_sloc": 1
+      },
+      "url": "https://git-ai-production.up.railway.app/cas/bf200ef749fe372d49d209614e68791c94f0a08e2fd17292012710f2d6fd43f2"
+    },
+    {
+      "timestamp": 1778272449,
+      "kind": "human",
+      "files": {},
+      "line_stats": {
+        "additions": 28,
+        "deletions": 0,
+        "additions_sloc": 21,
+        "deletions_sloc": 0
+      },
+      "url": "https://git-ai-production.up.railway.app/cas/d5d8ae179df550a576db3600665ad1cd93dd2cb20a091dfca16fc58801e78225"
+    },
+    {
+      "timestamp": 1778272449,
+      "kind": "ai_agent",
+      "files": {},
+      "line_stats": {
+        "additions": 0,
+        "deletions": 28,
+        "additions_sloc": 0,
+        "deletions_sloc": 21
+      },
+      "url": "https://git-ai-production.up.railway.app/cas/dc9aae41301a76b0f89d2a0911cb1ef4ddf862f87be90647134cb8c7f3184fc1"
+    },
+    {
+      "timestamp": 1778272450,
+      "kind": "human",
+      "files": {},
+      "line_stats": {
+        "additions": 28,
+        "deletions": 0,
+        "additions_sloc": 21,
+        "deletions_sloc": 0
+      },
+      "url": "https://git-ai-production.up.railway.app/cas/aa3bbb2948fe5bc861b2410c3736d69c1b656a7c30385d44151bfcc3de0399c1"
+    },
+    {
+      "timestamp": 1778272452,
+      "kind": "human",
+      "files": {},
+      "line_stats": {
+        "additions": 0,
+        "deletions": 28,
+        "additions_sloc": 0,
+        "deletions_sloc": 21
+      },
+      "url": "https://git-ai-production.up.railway.app/cas/4aecefd4612a4dd13bd2d7fb07c7b7301aaccd843a9f48ec73a4ba7a04eb1366"
+    }
+  ]
+}
