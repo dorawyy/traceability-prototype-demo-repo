@@ -1,0 +1,41 @@
+backend/src/auth.signout.test.ts
+  d8b8f2008104d27e 1-23
+---
+backend/src/auth.signout.test.ts
+  309166a6-ba74-49ed-90d4-4fe81531dec8 1-23
+---
+{
+  "schema_version": "authorship/4.0.0",
+  "git_ai_version": "1.3.6",
+  "base_commit_sha": "90ccef2ac67e04f6dc2920d361a26ecc12c79e97",
+  "prompts": {
+    "d8b8f2008104d27e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e378a287-0b96-4b71-8813-20b0c7edd2bc",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "Yingying Wang",
+      "messages": [],
+      "total_additions": 23,
+      "total_deletions": 0,
+      "accepted_lines": 23,
+      "overriden_lines": 0,
+      "messages_url": "https://git-ai-production.up.railway.app/cas/28b52dfc3986215eba4e1ce3cdb60cd8c568f2bf43235d14a817c03933358525"
+    }
+  },
+  "change_history": [
+    {
+      "timestamp": 1778270713,
+      "kind": "ai_agent",
+      "files": {},
+      "line_stats": {
+        "additions": 23,
+        "deletions": 0,
+        "additions_sloc": 18,
+        "deletions_sloc": 0
+      },
+      "url": "https://git-ai-production.up.railway.app/cas/1fd41723a4171694d69aaceb1d3afdccc7fbd73c0e2be21b0bb323320ffabc5b"
+    }
+  ]
+}
