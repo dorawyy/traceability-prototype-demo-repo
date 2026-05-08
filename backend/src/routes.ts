@@ -9,7 +9,7 @@ import usersRoutes from './user.routes';
 const router = Router();
 
 router.get('/health', (_req, res) => {
-  res.json({ status: 'ok', uptime: process.uptime(), text: "hello world - ai version - human addition" });
+  res.json({ status: 'ok', uptime: process.uptime(), text: "hello world" });
 });
 
 // add comment 1
