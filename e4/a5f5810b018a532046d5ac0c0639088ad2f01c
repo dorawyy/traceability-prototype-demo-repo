@@ -23,7 +23,7 @@ backend/src/auth.types.ts
         "id": "e63ba85c-1510-45e2-9875-6019415184a9",
         "model": "composer-2"
       },
-      "human_author": "Yingying Wang <dora93wang@gmail.com>",
+      "human_author": "Yingying Wang",
       "messages": [],
       "total_additions": 16,
       "total_deletions": 0,
