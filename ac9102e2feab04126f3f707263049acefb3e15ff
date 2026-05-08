@@ -1,0 +1,77 @@
+backend/src/routes.ts
+  e3490a771829fe7e 17
+  17122c84e8517e53 18-20
+---
+{
+  "schema_version": "authorship/4.0.0",
+  "git_ai_version": "1.3.6",
+  "base_commit_sha": "ac9102e2feab04126f3f707263049acefb3e15ff",
+  "prompts": {
+    "17122c84e8517e53": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "363de93a-669d-4349-a959-a3ca6c4ff63c",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "Andrew Wang",
+      "messages": [],
+      "total_additions": 3,
+      "total_deletions": 0,
+      "accepted_lines": 3,
+      "overriden_lines": 0,
+      "messages_url": "https://git-ai-production.up.railway.app/cas/eb016b3d4f5c3208ca4bb27916770c895bc04cf234a052b0f1fb371075174124"
+    },
+    "e3490a771829fe7e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "9e52a68b-6b7e-4417-b76d-fee794bfa722",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "Andrew Wang",
+      "messages": [],
+      "total_additions": 2,
+      "total_deletions": 0,
+      "accepted_lines": 1,
+      "overriden_lines": 0,
+      "messages_url": "https://git-ai-production.up.railway.app/cas/bbebd4fc972b176df9630ffeadd0fdac8d2b4bed6185ef163f933c243fe183d4"
+    }
+  },
+  "change_history": [
+    {
+      "timestamp": 1778267834,
+      "kind": "ai_agent",
+      "files": {},
+      "line_stats": {
+        "additions": 1,
+        "deletions": 0,
+        "additions_sloc": 1,
+        "deletions_sloc": 0
+      },
+      "url": "https://git-ai-production.up.railway.app/cas/d276c1db5fa2c7139d15fe8ddcee2987d88f04a0e9691017617ecc20fe112b7a"
+    },
+    {
+      "timestamp": 1778267816,
+      "kind": "ai_agent",
+      "files": {},
+      "line_stats": {
+        "additions": 1,
+        "deletions": 0,
+        "additions_sloc": 1,
+        "deletions_sloc": 0
+      },
+      "url": "https://git-ai-production.up.railway.app/cas/b28b35ec1de704a3f4fdb068e50fde84ee76bac54554d5566598c11ae2e91da1"
+    },
+    {
+      "timestamp": 1778267566,
+      "kind": "ai_agent",
+      "files": {},
+      "line_stats": {
+        "additions": 1,
+        "deletions": 0,
+        "additions_sloc": 1,
+        "deletions_sloc": 0
+      },
+      "url": "https://git-ai-production.up.railway.app/cas/e4ec9854ca809351df3cab8b28c028e296334451acc532ad74c08eec25cfba82"
+    }
+  ]
+}
