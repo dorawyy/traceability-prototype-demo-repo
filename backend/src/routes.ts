@@ -12,6 +12,10 @@ router.get('/health', (_req, res) => {
   res.json({ status: 'ok', uptime: process.uptime(), text: "hello world - ai version - human addition" });
 });
 
+// add comment 1
+// commetn2, ai
+
+
 router.use('/auth', authRoutes);
 
 router.use('/hobbies', authenticateToken, hobbiesRoutes);
