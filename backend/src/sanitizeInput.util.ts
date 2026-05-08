@@ -4,6 +4,7 @@ export const sanitizeArgs = (args: unknown[]): unknown[] => {
 
 // arbitrary change for testing
 // another change
+// another change for squash merge 
 
 export const sanitizeInput = (input: string): string => {
   if (/[\r\n]/.test(input)) {
