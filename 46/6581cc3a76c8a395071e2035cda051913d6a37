@@ -1,0 +1,21 @@
+---
+{
+  "schema_version": "authorship/4.0.0",
+  "git_ai_version": "1.3.1",
+  "base_commit_sha": "466581cc3a76c8a395071e2035cda051913d6a37",
+  "prompts": {},
+  "change_history": [
+    {
+      "timestamp": 1778220683,
+      "kind": "human",
+      "files": {},
+      "line_stats": {
+        "additions": 2,
+        "deletions": 1,
+        "additions_sloc": 1,
+        "deletions_sloc": 1
+      },
+      "url": "https://git-ai-production.up.railway.app/cas/54c86d6b5d7c0ba7c622080b908d12db5c41e9dcf0d75d889f3b45c54e890959"
+    }
+  ]
+}
