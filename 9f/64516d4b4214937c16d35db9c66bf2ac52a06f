@@ -1,0 +1,59 @@
+backend/src/routes.ts
+  48edcc5bdd6dc6a4 11,13-14
+  h_ebff0bc7bb81ae 12
+---
+backend/src/routes.ts
+  22c8e789-d90f-4626-9969-f689cf2762a4 11,13-14
+---
+{
+  "schema_version": "authorship/4.0.0",
+  "git_ai_version": "1.3.6",
+  "base_commit_sha": "9f64516d4b4214937c16d35db9c66bf2ac52a06f",
+  "prompts": {
+    "48edcc5bdd6dc6a4": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "a0b97780-d901-4fb2-b7a2-6abba04427b2",
+        "model": "composer-2"
+      },
+      "human_author": "Yingying Wang",
+      "messages": [],
+      "total_additions": 4,
+      "total_deletions": 0,
+      "accepted_lines": 3,
+      "overriden_lines": 1,
+      "messages_url": "https://git-ai-production.up.railway.app/cas/a8570bf6a9e2a56ae8952b8da9477f5258089df00f454d3580cbf4de1e8dc652"
+    }
+  },
+  "humans": {
+    "h_ebff0bc7bb81ae": {
+      "author": "Yingying Wang"
+    }
+  },
+  "change_history": [
+    {
+      "timestamp": 1778232952,
+      "kind": "ai_agent",
+      "files": {},
+      "line_stats": {
+        "additions": 4,
+        "deletions": 0,
+        "additions_sloc": 3,
+        "deletions_sloc": 0
+      },
+      "url": "https://git-ai-production.up.railway.app/cas/989a7692597fd3d568917be2c8f8d4ad32dd74aee81b178be8676e1198347d49"
+    },
+    {
+      "timestamp": 1778232976,
+      "kind": "known_human",
+      "files": {},
+      "line_stats": {
+        "additions": 1,
+        "deletions": 1,
+        "additions_sloc": 1,
+        "deletions_sloc": 1
+      },
+      "url": "https://git-ai-production.up.railway.app/cas/d0d12ac119db8bc45f587450b2f1e7953aa1620431fb06e366244fdec04defe8"
+    }
+  ]
+}
