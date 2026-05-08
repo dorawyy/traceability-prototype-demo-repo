@@ -8,6 +8,10 @@ import usersRoutes from './user.routes';
 
 const router = Router();
 
+router.get('/health', (_req, res) => {
+  res.json({ status: 'ok', uptime: process.uptime(), text: "hello world" });
+});
+
 router.use('/auth', authRoutes);
 
 router.use('/hobbies', authenticateToken, hobbiesRoutes);
