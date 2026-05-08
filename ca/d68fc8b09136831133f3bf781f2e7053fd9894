@@ -1,0 +1,55 @@
+backend/src/routes.ts
+  e3490a771829fe7e 17
+---
+backend/src/routes.ts
+  0983034a-ea1b-4c94-96f7-4e16a0136a13 17
+---
+{
+  "schema_version": "authorship/4.0.0",
+  "git_ai_version": "development:1.3.6",
+  "base_commit_sha": "cad68fc8b09136831133f3bf781f2e7053fd9894",
+  "prompts": {
+    "2f2adb98a7443035": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "33a45cc2-10ae-446f-b538-ab2294f198a5",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "Andrew Wang",
+      "messages": [],
+      "total_additions": 0,
+      "total_deletions": 0,
+      "accepted_lines": 12,
+      "overriden_lines": 0,
+      "messages_url": "https://git-ai-production.up.railway.app/cas/de5f5649b68fcd8449833e7480b0410a442bbb0b7f733f19798dc606d4f1dca2"
+    },
+    "e3490a771829fe7e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "9e52a68b-6b7e-4417-b76d-fee794bfa722",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "Andrew Wang",
+      "messages": [],
+      "total_additions": 1,
+      "total_deletions": 0,
+      "accepted_lines": 1,
+      "overriden_lines": 0,
+      "messages_url": "https://git-ai-production.up.railway.app/cas/bbebd4fc972b176df9630ffeadd0fdac8d2b4bed6185ef163f933c243fe183d4"
+    }
+  },
+  "change_history": [
+    {
+      "timestamp": 1778232217,
+      "kind": "ai_agent",
+      "files": {},
+      "line_stats": {
+        "additions": 1,
+        "deletions": 0,
+        "additions_sloc": 1,
+        "deletions_sloc": 0
+      },
+      "url": "https://git-ai-production.up.railway.app/cas/5558cbae79f651998944e7bf77b10a2ee1eb1d69d3bc6acd764e499182a4f2f8"
+    }
+  ]
+}
