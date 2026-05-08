@@ -1,0 +1,28 @@
+backend/src/auth.routes.ts
+  h_ebff0bc7bb81ae 26-27
+---
+{
+  "schema_version": "authorship/4.0.0",
+  "git_ai_version": "1.3.6",
+  "base_commit_sha": "d7fa8d3aa24676219cf5fcac1f44882c86cd00e7",
+  "prompts": {},
+  "humans": {
+    "h_ebff0bc7bb81ae": {
+      "author": "Yingying Wang"
+    }
+  },
+  "change_history": [
+    {
+      "timestamp": 1778271934,
+      "kind": "known_human",
+      "files": {},
+      "line_stats": {
+        "additions": 2,
+        "deletions": 0,
+        "additions_sloc": 1,
+        "deletions_sloc": 0
+      },
+      "url": "https://git-ai-production.up.railway.app/cas/7a3e8c66d6c0c81cf0cd5720fc00ac647f66137ee47debfa59aa008a8657242b"
+    }
+  ]
+}
