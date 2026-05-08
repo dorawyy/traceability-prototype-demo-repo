@@ -3,6 +3,7 @@ export const sanitizeArgs = (args: unknown[]): unknown[] => {
 };
 
 // arbitrary change for testing
+// another change
 
 export const sanitizeInput = (input: string): string => {
   if (/[\r\n]/.test(input)) {
