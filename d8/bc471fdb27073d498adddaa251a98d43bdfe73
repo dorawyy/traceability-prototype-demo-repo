@@ -1,0 +1,187 @@
+backend/src/auth.controller.ts
+  8a9c0be1d409533f 7,10,94-125
+backend/src/auth.middleware.ts
+  8a9c0be1d409533f 25,46-50
+backend/src/auth.routes.ts
+  8a9c0be1d409533f 4,23
+backend/src/auth.service.ts
+  8a9c0be1d409533f 45-51
+backend/src/auth.types.ts
+  8a9c0be1d409533f 20-23
+backend/src/user.model.ts
+  8a9c0be1d409533f 58-61,120-137
+backend/src/user.types.ts
+  8a9c0be1d409533f 15
+---
+backend/src/auth.controller.ts
+  d88ff73f-b327-4338-a371-4d577e6634db 7,10
+  d88ff73f-b327-4338-a371-4d577e6634db 94-125
+backend/src/auth.middleware.ts
+  d88ff73f-b327-4338-a371-4d577e6634db 25,46-50
+backend/src/auth.routes.ts
+  d88ff73f-b327-4338-a371-4d577e6634db 4,23
+backend/src/auth.service.ts
+  d88ff73f-b327-4338-a371-4d577e6634db 45-51
+backend/src/auth.types.ts
+  d88ff73f-b327-4338-a371-4d577e6634db 20-23
+backend/src/user.model.ts
+  d88ff73f-b327-4338-a371-4d577e6634db 120-137
+  d88ff73f-b327-4338-a371-4d577e6634db 58-61
+backend/src/user.types.ts
+  d88ff73f-b327-4338-a371-4d577e6634db 15
+---
+{
+  "schema_version": "authorship/4.0.0",
+  "git_ai_version": "1.3.6",
+  "base_commit_sha": "d8bc471fdb27073d498adddaa251a98d43bdfe73",
+  "prompts": {
+    "8a9c0be1d409533f": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "0a0b5286-575d-4456-9366-6cbaa6d9409c",
+        "model": "composer-2"
+      },
+      "human_author": "Yingying Wang",
+      "messages": [],
+      "total_additions": 81,
+      "total_deletions": 595,
+      "accepted_lines": 81,
+      "overriden_lines": 0,
+      "messages_url": "https://git-ai-production.up.railway.app/cas/57b1bf22166fea41ad62f8a10fa1fbe88d85fc580cb8db51c5f441041fe64563"
+    }
+  },
+  "change_history": [
+    {
+      "timestamp": 1778261302,
+      "kind": "ai_agent",
+      "files": {},
+      "line_stats": {
+        "additions": 4,
+        "deletions": 0,
+        "additions_sloc": 4,
+        "deletions_sloc": 0
+      },
+      "url": "https://git-ai-production.up.railway.app/cas/92cc8967e07217a6501bad6ad4b4fc167544f3a08c4be2c443ada5397720524e"
+    },
+    {
+      "timestamp": 1778261302,
+      "kind": "ai_agent",
+      "files": {},
+      "line_stats": {
+        "additions": 1,
+        "deletions": 0,
+        "additions_sloc": 1,
+        "deletions_sloc": 0
+      },
+      "url": "https://git-ai-production.up.railway.app/cas/69e81b14283dd3bb525360c443540c571d52bcf260d33bed78eb91a4eca0b38e"
+    },
+    {
+      "timestamp": 1778261303,
+      "kind": "ai_agent",
+      "files": {},
+      "line_stats": {
+        "additions": 18,
+        "deletions": 0,
+        "additions_sloc": 17,
+        "deletions_sloc": 0
+      },
+      "url": "https://git-ai-production.up.railway.app/cas/b1b5a829f695096128e280f977b02b492b21a83172dcccd6ac8083392844c1b1"
+    },
+    {
+      "timestamp": 1778261309,
+      "kind": "ai_agent",
+      "files": {},
+      "line_stats": {
+        "additions": 7,
+        "deletions": 3,
+        "additions_sloc": 7,
+        "deletions_sloc": 3
+      },
+      "url": "https://git-ai-production.up.railway.app/cas/e51a7c406be3f258945c94f5ceb03adf0705323610244e97e7264a880d71ea1d"
+    },
+    {
+      "timestamp": 1778261310,
+      "kind": "ai_agent",
+      "files": {},
+      "line_stats": {
+        "additions": 10,
+        "deletions": 0,
+        "additions_sloc": 9,
+        "deletions_sloc": 0
+      },
+      "url": "https://git-ai-production.up.railway.app/cas/c5b7d0f505c83cc85ae2100f78653d39f0f7420c3159944deb9d94e3449ed290"
+    },
+    {
+      "timestamp": 1778261316,
+      "kind": "ai_agent",
+      "files": {},
+      "line_stats": {
+        "additions": 4,
+        "deletions": 0,
+        "additions_sloc": 3,
+        "deletions_sloc": 0
+      },
+      "url": "https://git-ai-production.up.railway.app/cas/0395e53d7a36dca2862525ca7d73c1df640564a44f7df51f37fe0c64a6dfd3b5"
+    },
+    {
+      "timestamp": 1778261316,
+      "kind": "ai_agent",
+      "files": {},
+      "line_stats": {
+        "additions": 2,
+        "deletions": 0,
+        "additions_sloc": 2,
+        "deletions_sloc": 0
+      },
+      "url": "https://git-ai-production.up.railway.app/cas/b592f9f588bb9dbb764d5034abb94c5c447017adfe097bd259346446945315ed"
+    },
+    {
+      "timestamp": 1778261317,
+      "kind": "ai_agent",
+      "files": {},
+      "line_stats": {
+        "additions": 32,
+        "deletions": 0,
+        "additions_sloc": 27,
+        "deletions_sloc": 0
+      },
+      "url": "https://git-ai-production.up.railway.app/cas/0daf354ec983342b29dbb25b3f7e20c61b3f2b6563d353bc561bb478990ee9bb"
+    },
+    {
+      "timestamp": 1778261318,
+      "kind": "ai_agent",
+      "files": {},
+      "line_stats": {
+        "additions": 3,
+        "deletions": 0,
+        "additions_sloc": 2,
+        "deletions_sloc": 0
+      },
+      "url": "https://git-ai-production.up.railway.app/cas/b24573a1009ee18e00b4d858bc9e0eb50fbc89feba7258c23cca51499e415772"
+    },
+    {
+      "timestamp": 1778261320,
+      "kind": "human",
+      "files": {},
+      "line_stats": {
+        "additions": 592,
+        "deletions": 0,
+        "additions_sloc": 508,
+        "deletions_sloc": 0
+      },
+      "url": "https://git-ai-production.up.railway.app/cas/a4d8e582df6b5da1e2e42644067cda1269aa082911ad0cbaf12c1f076aea6c2c"
+    },
+    {
+      "timestamp": 1778261321,
+      "kind": "ai_agent",
+      "files": {},
+      "line_stats": {
+        "additions": 0,
+        "deletions": 592,
+        "additions_sloc": 0,
+        "deletions_sloc": 508
+      },
+      "url": "https://git-ai-production.up.railway.app/cas/6ac3a0fa66d082f383d056d473fa72d7a9f1be571753b7de7abfad815d7b6d21"
+    }
+  ]
+}
