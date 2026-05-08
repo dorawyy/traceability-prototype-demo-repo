@@ -8,6 +8,8 @@ import {
 } from './auth.types';
 import logger from './logger.util';
 
+const SIGNOUT_MESSAGE = 'Signed out successfully';
+
 export class AuthController {
   async signUp(
     req: Request<unknown, unknown, AuthenticateUserRequest>,
@@ -93,7 +95,7 @@ export class AuthController {
 
   signOut(_req: Request, res: Response<SignOutResponse>) {
     res.status(200).json({
-      message: 'Signed out successfully',
+      message: SIGNOUT_MESSAGE,
     });
   }
 }
