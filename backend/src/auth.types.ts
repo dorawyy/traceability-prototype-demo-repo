@@ -17,6 +17,10 @@ export type AuthenticateUserResponse = {
   data?: AuthResult;
 };
 
+export type SignOutResponse = {
+  message: string;
+};
+
 // Generic types
 // ------------------------------------------------------------
 export type AuthResult = {

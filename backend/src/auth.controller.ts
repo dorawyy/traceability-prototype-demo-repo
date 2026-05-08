@@ -4,6 +4,7 @@ import { authService } from './auth.service';
 import {
   AuthenticateUserRequest,
   AuthenticateUserResponse,
+  SignOutResponse,
 } from './auth.types';
 import logger from './logger.util';
 
@@ -88,5 +89,15 @@ export class AuthController {
 
       next(error);
     }
+  }
+
+  signOut(
+    _req: Request,
+    res: Response<SignOutResponse>,
+    _next: NextFunction
+  ) {
+    return res.status(200).json({
+      message: 'Signed out successfully',
+    });
   }
 }
