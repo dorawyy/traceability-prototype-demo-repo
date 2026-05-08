@@ -1,0 +1,96 @@
+backend/src/auth.controller.ts
+  e8ebe5913d8d714f 11-12,98
+---
+backend/src/auth.controller.ts
+  abbaa216-fe78-4100-89ce-32db6c2da19c 11-12,98
+---
+{
+  "schema_version": "authorship/4.0.0",
+  "git_ai_version": "1.3.6",
+  "base_commit_sha": "66fb7a960a381110c1ab362f3c5b995967e14dac",
+  "prompts": {
+    "4790e159c5d350b1": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "386b49c0-ff82-429e-9a61-054009cf85f8",
+        "model": "composer-2"
+      },
+      "human_author": "Yingying Wang",
+      "messages": [],
+      "total_additions": 0,
+      "total_deletions": 0,
+      "accepted_lines": 0,
+      "overriden_lines": 0,
+      "messages_url": "https://git-ai-production.up.railway.app/cas/4810ed38fa82527b79db62e7bc1197e0715409083115ee3d8c720bb163f73587"
+    },
+    "e8ebe5913d8d714f": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "45cb505a-9f68-4740-840c-a862015ced17",
+        "model": "default"
+      },
+      "human_author": "Yingying Wang",
+      "messages": [],
+      "total_additions": 3,
+      "total_deletions": 1,
+      "accepted_lines": 3,
+      "overriden_lines": 0,
+      "messages_url": "https://git-ai-production.up.railway.app/cas/0bea4d79df2c2e0574a8860ced49c9795df902ed8754f934adf22ab62cf042f1"
+    }
+  },
+  "humans": {
+    "h_ebff0bc7bb81ae": {
+      "author": "Yingying Wang"
+    }
+  },
+  "change_history": [
+    {
+      "timestamp": 1778265924,
+      "kind": "known_human",
+      "files": {},
+      "line_stats": {
+        "additions": 1,
+        "deletions": 3,
+        "additions_sloc": 1,
+        "deletions_sloc": 3
+      },
+      "url": "https://git-ai-production.up.railway.app/cas/4ef8907e59fa49bf311a9d48bb5dd2559d667307f94357ad63249e6d6793daba"
+    },
+    {
+      "timestamp": 1778266023,
+      "kind": "known_human",
+      "files": {},
+      "line_stats": {
+        "additions": 3,
+        "deletions": 1,
+        "additions_sloc": 3,
+        "deletions_sloc": 1
+      },
+      "url": "https://git-ai-production.up.railway.app/cas/32498723884c8ac6d9011045c39ab988de724c8f52502bd417d7469a34158a46"
+    },
+    {
+      "timestamp": 1778270244,
+      "kind": "ai_agent",
+      "files": {},
+      "line_stats": {
+        "additions": 3,
+        "deletions": 1,
+        "additions_sloc": 2,
+        "deletions_sloc": 1
+      },
+      "url": "https://git-ai-production.up.railway.app/cas/9f84994b62508d9e90cedda70a07d050a5de51c0b0113a0fd2606c56b3e1574e"
+    },
+    {
+      "timestamp": 1778270308,
+      "kind": "human",
+      "files": {},
+      "line_stats": {
+        "additions": 0,
+        "deletions": 102,
+        "additions_sloc": 0,
+        "deletions_sloc": 83
+      },
+      "url": "https://git-ai-production.up.railway.app/cas/aa6c1646c2599477a163ffe51bed2255d83567e6e914424028e7cd8a1408eb75"
+    }
+  ]
+}
